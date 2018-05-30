@@ -1,1 +1,2 @@
-# Arnol-Gto-BacoBlizzardProject-master
+# BlizzardProject
+This's a Blizzard project.
